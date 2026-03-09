@@ -56,7 +56,7 @@ A leading automotive finance company adopted KubeSphere Enterprise Edition to bu
 
 A Municipal Bureau of Planning and Natural Resources built a “One Cloud, Multiple Architectures” government container cloud platform. By seamlessly managing heterogeneous chip architectures and enabling unified cross-architecture scheduling with standardized processes, it effectively supported the digital transformation of smart city and spatial planning systems.
 
-Macau Meteorological and Geophysical Bureau selected KubeSphere Trusted Edition to build the cloud-native foundation for its core forecasting and monitoring systems. While meeting high security and compliance requirements, the platform enabled unified resource scheduling and automated operations, ensuring 24/7 uninterrupted and stable meteorological services.
+A regional Meteorological and Geophysical Bureau selected KubeSphere Trusted Edition to build the cloud-native foundation for its core forecasting and monitoring systems. While meeting high security and compliance requirements, the platform enabled unified resource scheduling and automated operations, ensuring 24/7 uninterrupted and stable meteorological services.
 
 ### International Expansion
 
